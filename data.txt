@@ -1,0 +1,21 @@
+There must be two separate folders for distorted and undistorted image sets
+I have uploaded them to Onedrive as one single .zip folder called data
+
+LINK: https://1drv.ms/u/s!ArUi3CefOACGoKFCgjc50FySuksgUg
+
+- scans/: scans with distortion not corrected
+	|-- calib/: calibration images with distortion
+	|-- <object>/:
+- scans_undistort/: scans with distortion corrected
+	|-- calib_jpg_u/: calibration images without distortion
+	|-- couple/: individual scan grabs *.png (removed to save space), meshes of each grab mesh<n>.ply, 
+		final mesh couple_final.ply, and MeshLab project file mesh.mlp
+	|-- teapot/: individual scan grabs *.png (removed to save space), meshes of each grab mesh<n>.ply,
+		final mesh teapot_final.ply, and MeshLab project file teapot.mlp
+
+Once downloaded, place it at root folder, same folder as where python_code/, cache/, and calibrations/ are placed
+
+Then, import the deleted scans into grab_n folders like provided
+
+If you want to start directly from alignment or even directly view the final results,
+	there are *_final.ply as final products, mesh<n>.ply as individual meshes

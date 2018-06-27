@@ -1,0 +1,86 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="mesh0.ply" filename="grab_0_u/mesh0.ply">
+   <MLMatrix44>
+0.999966 0.000640938 0.00830962 1.45713 
+-0.00071952 0.999955 0.0094567 -0.248897 
+-0.00830313 -0.00946236 0.99992 0.802788 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh1.ply" filename="grab_1_u/mesh1.ply">
+   <MLMatrix44>
+0.519708 0.046309 0.832659 215.589 
+-0.0698545 0.980082 -0.0109081 11.5836 
+-0.831014 -0.053424 0.521653 -35.2977 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh2.ply" filename="grab_2_u/mesh2.ply">
+   <MLMatrix44>
+-0.427673 0.0457709 0.819565 322.069 
+-0.0756285 0.918005 -0.0907338 0.983588 
+-0.81735 -0.108891 -0.420436 -215.04 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh3.ply" filename="grab_3_u/mesh3.ply">
+   <MLMatrix44>
+-0.877907 -0.0162313 -0.128824 156.293 
+0.00478317 0.875855 -0.14295 -23.4014 
+0.129755 -0.142106 -0.866343 -419.883 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh4.ply" filename="grab_4_u/mesh4.ply">
+   <MLMatrix44>
+0.193488 -0.0448616 -0.966693 -118.178 
+0.081804 0.983054 -0.0292474 -11.494 
+0.964269 -0.0743958 0.196455 -317.848 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh6.ply" filename="grab_6_u/mesh6.ply">
+   <MLMatrix44>
+-0.899433 -0.0921245 0.427237 249.559 
+0.436469 -0.138634 0.888976 149.061 
+-0.0226676 0.98605 0.164901 -60.1953 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh5.ply" filename="grab_5_u/mesh5.ply">
+   <MLMatrix44>
+0.797898 -0.0354789 -0.601747 -126.758 
+0.040529 0.999165 -0.00517028 -3.15235 
+0.601428 -0.0202628 0.79867 -125.293 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="Poisson mesh" filename="couple2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="Poisson mesh(1)" filename="couple3.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="Poisson mesh(2)" filename="couple4.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>

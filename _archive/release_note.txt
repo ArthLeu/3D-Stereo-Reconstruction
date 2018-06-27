@@ -1,0 +1,31 @@
+author: Anthony Liu
+date: 06/10/2018
+
+----
+Release Notes:
+
+This folder (python_code) consists of Python files
+that were originally written for the 3D reconstruction, meshing,
+and color mapping project of mine.
+
+The development in Python has been suspended due to limited
+functionality in Python IDE and a time constraint. For instance, 
+the inability to rotate 3D visualization for analysis and debug purposes,
+consuming too much time before the deadline.
+
+Data (calibrations) has been transferred to MATLAB environment
+with the aid of scipy.io. The remaining Python files (e.g. reconstruct.py)
+will remain to function.
+
+However, this (development process) will resume in the next months,
+once the project has been done in MATLAB environment. Functions and
+scripts developed after reconstruction will be transferred back to 
+Python IDE. There will be changes from the MATLAB version to adapt
+to Python once again.
+
+UPDATE 06/14/2018:
+Resumed developing in Python temporarily. Meshing script has been done
+
+----
+
+More question email haoyanl2@uci.edu

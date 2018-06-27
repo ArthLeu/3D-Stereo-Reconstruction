@@ -1,0 +1,78 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh filename="grab_5_u/mesh5.ply" label="mesh5.ply">
+   <MLMatrix44>
+-0.869013 0.472361 0.147278 306.133 
+-0.191769 -0.595935 0.779799 -333.124 
+0.456114 0.649412 0.60846 145.053 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="grab_2_u/mesh2.ply" label="mesh2.ply">
+   <MLMatrix44>
+0.998705 0.0100974 -0.0498599 8.74923 
+-0.00992425 0.999944 0.00371885 1.30475 
+0.0498946 -0.00321922 0.998749 -8.80902 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="grab_3_u/mesh3.ply" label="mesh3.ply">
+   <MLMatrix44>
+-0.131992 -0.155327 0.979006 -16.5503 
+0.160478 0.971269 0.175736 -54.541 
+-0.978174 0.180305 -0.103273 329.191 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="grab_0_u/mesh0.ply" label="mesh0.ply">
+   <MLMatrix44>
+-0.986411 0.00815891 0.164093 204.894 
+0.0637901 0.93943 0.336752 -71.5701 
+-0.151406 0.342643 -0.927185 400.366 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="grab_1_u/mesh1.ply" label="mesh1.ply">
+   <MLMatrix44>
+-0.634214 0.172374 -0.753698 342.945 
+-0.097987 0.94905 0.299505 -45.7478 
+0.766924 0.263803 -0.58501 223.491 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="grab_4_u/mesh4.ply" label="mesh4.ply">
+   <MLMatrix44>
+-0.895859 0.116462 -0.428805 317.092 
+-0.0335078 0.944586 0.32655 -57.1164 
+0.443074 0.306911 -0.842313 299.406 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="grab_6_u/mesh6.ply" label="mesh6.ply">
+   <MLMatrix44>
+-0.936195 0.460499 0.0160004 323.339 
+0.00666632 0.0497655 -1.04224 -12.6519 
+-0.460729 -0.935009 -0.0475923 65.1538 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="teapot.ply" label="Merged Mesh">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="teapot_final.ply" label="Poisson mesh">
+   <MLMatrix44>
+0.999995 0.000711685 0.00304929 0 
+-0.00123691 0.98441 0.175882 0 
+-0.00287658 -0.175885 0.984407 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
